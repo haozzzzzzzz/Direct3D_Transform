@@ -3,7 +3,7 @@ Direct3D_Transform
 
 Direct3D_Transform
 
-Related Post : http://haozi.freetzi.com/uncategorized/313.html
+Related Post : http://haozi.freetzi.com/software/cpp/313.html
 
 Author : haozi
 
